@@ -1,5 +1,11 @@
 # 更新日志
 
+### 2019-05-07
+- 现在使用`VirtualSMC(1.0.3)`替代`FakeSMC`.
+- 默认使用防误触的触摸板驱动 VoodooPS2Controller(1.9.2) + VoodooI2C(2.1.5).
+- 更新Lilu系列驱动.
+- 添加了博通蓝牙参数`bpr_probedelay=100` `bpr_initialdelay=300` `bpr_postresetdelay=300`.
+
 ### 2019-04-03
 - 日常更新Lilu系列
 

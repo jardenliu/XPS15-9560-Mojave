@@ -4,29 +4,17 @@
 
 [English](README_EN.md) | [中文](README.md)
 
-## VirtualSmc 版本已更新
-
-- 想更换 VirtualSmc，请到[VirtualSmc 分支](https://github.com/jardenliu/XPS15-9560-Mojave/tree/VirtualSmc)下载
-
-## 打字防误触
-
-1. 新版 I2C 有打字防误触了！！！
-2. 安装办法，替换`Post-install/防误触/`下面的全部 kext 文件到`CLOVER/kexts/Other/`。
-3. 原理是打字的时候禁用触摸板。
-4. 有点 bug，打字之后恢复触摸板有点延迟。例如用快捷键粘贴的时候，触摸板会短暂不可用，感觉有个 0.5s 的延迟。
-5. 小伙伴按需使用
-
 ## 更新日志
 
-### 2019-04-03
-
-- 日常更新 Lilu 系列
+### 2019-05-07
+- 现在使用`VirtualSMC(1.0.3)`替代`FakeSMC`.
+- 默认使用防误触的触摸板驱动 VoodooPS2Controller(1.9.2) + VoodooI2C(2.1.5).
+- 更新Lilu系列驱动.
+- 添加了博通蓝牙参数`bpr_probedelay=100` `bpr_initialdelay=300` `bpr_postresetdelay=300`.
 
 更多详见[changelog.md](https://github.com/jardenliu/XPS15-9560-Mojave/blob/master/changelog.md)
 
-## WARNING
 
-1. 不开启`FileValue加密`，不开启`FileValue加密`，不开启`FileValue加密`！！！
 
 ## 配置
 
@@ -58,6 +46,10 @@
 ## 安装教程
 
 实在不想写教程，可以参考小米笔记本 pro 的安装教程，详见[bilibili 小米 pro 教程](https://www.bilibili.com/video/av23052183)
+
+## 提示
+
+1. 不开启`FileValue加密`，不开启`FileValue加密`，不开启`FileValue加密`！！！
 
 ## 小问题处理方式
 

@@ -4,13 +4,6 @@
 
 [English](README_EN.md) | [中文](README.md)
 
-## VirtualSmc Version
-
-- If you wanna try it，check out [VirtualSmc branch](https://github.com/jardenliu/XPS15-9560-Mojave/tree/VirtualSmc)
-
-## Warning
-
-1. Don't turn on `FileValue Encryption`！！！
 
 ## Configuration
 
@@ -34,6 +27,10 @@
 Please refer to the detailed installation tutorial [Xiaomi Mi Notebook Pro High Sierra 10.13.6](https://www.tonymacx86.com/threads/guide-xiaomi-mi-notebook-pro-high-sierra-10-13-6.242724) or video tutorial [Xiaomi NoteBook PRO HACKINTOSH INSTALLATION GUIDE !!!](https://www.youtube.com/watch?v=72sPmkpxCvc).
 
 If the tracpad doesn't work during installation, please plug a wired mouse or a wireless mouse projector before the installation. After the installation completes, open `Terminal.app` and type `sudo kextcache -i /`. Wait for the process ending and restart the device. Enjoy your trackpad!
+
+## Warning
+
+1. Don't turn on `FileValue Encryption`！！！
 
 ## Work around
 
