@@ -4,6 +4,10 @@
 
 [English](README_EN.md) | [中文](README.md)
 
+
+## 10.15
+想尝鲜的小伙伴可以前往 [XPS15-9560-Catalina-Preview](https://github.com/jardenliu/XPS15-9560-Catalina-Preview).
+
 ## 更新日志
 
 ### 2019-05-07
