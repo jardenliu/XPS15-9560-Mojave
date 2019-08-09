@@ -1,10 +1,6 @@
 # XPS15-9560-Mojave
 
-# ！！！ 意见征集
-- 请问需要建个微信群或者QQ群交流吗？ 可以在 [#77 建群意见征集](https://github.com/jardenliu/XPS15-9560-Mojave/issues/77) 回复。
-
-
- 
+## Q群：161385229
 
 > xps15-9560 吃上黑果的 clover 配置，不方便下载的童鞋可以前往[yeliujun/XPS15-9560-Mojave](https://gitee.com/yeliujun/XPS15-9560-Mojave.git)
 
