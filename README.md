@@ -1,14 +1,9 @@
 # XPS15-9560-Mojave
 
-## Q群：161385229
-
 > xps15-9560 吃上黑果的 clover 配置，不方便下载的童鞋可以前往[yeliujun/XPS15-9560-Mojave](https://gitee.com/yeliujun/XPS15-9560-Mojave.git)
 
 [English](README_EN.md) | [中文](README.md)
 
-
-## 10.15
-想尝鲜的小伙伴可以前往 [XPS15-9560-Catalina-Preview](https://github.com/jardenliu/XPS15-9560-Catalina-Preview).
 
 ## 更新日志
 
